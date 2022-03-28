@@ -1,0 +1,18 @@
+body {
+	background-color: #3ee0a2;
+}
+h1{
+	color: navy;
+	font-family: Comic Sans MS;
+	font-size: 50px;
+}
+
+button {
+	background-color: #fbff00;
+	border: none;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	padding: 10px;
+	cursor: pointer;
+	color:  #0586ff
+}
